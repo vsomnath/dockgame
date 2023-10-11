@@ -1,6 +1,6 @@
 # DockGame: Cooperative Games for Multimeric Rigid Protein Docking
 
-### [arXiv](https://arxiv.org/)
+### [arXiv](https://arxiv.org/abs/2310.06177)
 
 Implementation of **DockGame**, a game-theoretic framework for multimeric (rigid) protein docking.
 We model docking as a cooperative game between proteins where the assembly structures correspond
@@ -203,6 +203,16 @@ The project is licensed under the MIT License.
 ## Reference
 
 If you find our work useful, please cite our paper:
+```
+@misc{somnath2023dockgame,
+      title={DockGame: Cooperative Games for Multimeric Rigid Protein Docking}, 
+      author={Vignesh Ram Somnath and Pier Giuseppe Sessa and Maria Rodriguez Martinez and Andreas Krause},
+      year={2023},
+      eprint={2310.06177},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
 ## Contact
 
