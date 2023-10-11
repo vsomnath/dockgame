@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.vscode/
+
+# C extensions
+*.so
+
+# Mac stuff
+*.DS_Store
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+/playgrounds*
+/logs*
+/results*
+/*.csv
+
+# Pyrosetta
+PyRosetta4.Release*
+
+*~
+*.pdb
+*.npy
+*.dill*
+*.cif
+*.pt
+local/
+dummy_*
+wandb/
+experiments/
+notebooks/
+*.out
+
+# Unused legacy code kept around for testing/debugging
+legacy/
+
+# Game outputs
+game_outputs/
